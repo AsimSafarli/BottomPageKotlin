@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductPageKotlin</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_menu_home">Home</string>
+    <string name="nav_menu_prod">Product</string>
+
+</resources>
